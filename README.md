@@ -33,7 +33,7 @@ Clone the repo using Git:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chat-with-llm-models.git
+git clone [https://github.com/yourusername/chat-with-llm-models.git](https://github.com/JIKS31/LLM.git)
 Or download the ZIP and extract it to your local machine.
 
 Install Dependencies
