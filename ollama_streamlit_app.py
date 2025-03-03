@@ -33,7 +33,7 @@ def main():
     logging.info("App started")
 
     # Sidebar for model selection
-    model = st.sidebar.selectbox("Choose a model", ["llama2", "deepseek-r1"])
+    model = st.sidebar.selectbox("Choose a model", ["llama2", "deepseek-r1","gemma-2"])
     logging.info(f"Model selected: {model}")
     
     # Prompt for user input and save to chat history
