@@ -3,11 +3,11 @@
 Welcome to the **Chat with LLM Models** app! This interactive Streamlit application allows you to chat with powerful Large Language Models (LLMs) such as **llama2** and **deepseek-r1** in real-time. It’s designed to offer seamless conversations with AI, complete with model response streaming and performance tracking.
 
 <p align="center">
-  <img src="assets/demo.gif" alt="LLM Demo GIF" width="600"/>
+  <img src="LLM_SAMPLE.gif" alt="LLM Demo GIF" width="600"/>
 </p>
 
 <p align="center">
-  <img src="assets/code-sample.png" alt="LLM Code Sample" width="600"/>
+  <img src="LLM.png" alt="LLM Code Sample" width="600"/>
 </p>
 
 
