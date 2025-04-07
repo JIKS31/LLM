@@ -34,7 +34,8 @@ Before running the app, ensure you have the following installed:
 To install the necessary dependencies, run the following:
 
 pip install streamlit llama_index ollama
-##⚡ How to Run
+
+## ⚡How to Run
 
 Clone or Download the Repository
 Clone the repo using Git:
@@ -65,12 +66,15 @@ Once the app is running, open your web browser and go to http://localhost:8501 t
 Choose a Model
 Use the sidebar to select a model (llama2 or deepseek-r1) and start chatting!
 
-✨ How It Works
+## ✨ How It Works
+
 Sidebar Model Selection: Choose your desired model from the dropdown menu.
 User Input: Enter your prompt in the chat input box.
 Live Response Streaming: As the model generates a response, you’ll see it stream live, letter by letter.
 Response Duration: The app displays how long it took the model to generate the response, so you can track performance.
-💻 Example Interaction
+
+## 💻 Example Interaction
+
 User: "What's the capital of Japan?"
 Assistant: "The capital of Japan is Tokyo."
 Duration: The response time is displayed (e.g., Duration: 2.34 seconds).
@@ -78,10 +82,10 @@ Duration: The response time is displayed (e.g., Duration: 2.34 seconds).
 📚 Logs & Error Handling
 Logs are automatically created for every user input, model response, and any errors that may occur. The app handles errors gracefully, providing useful messages if something goes wrong.
 
-🌐 Live Demo
+## 🌐 Live Demo
 Try it out yourself! You can deploy this app to a platform like Streamlit Cloud or any other cloud hosting service to make it available for everyone.
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! If you want to improve the app or add features, feel free to fork the repository and submit a pull request. Please follow the standard contribution guidelines:
 
 Fork the repo
