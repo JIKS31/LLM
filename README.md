@@ -14,7 +14,7 @@ Welcome to the **Chat with LLM Models** app! This interactive Streamlit applicat
 ## 🚀 Features
 
 - **Real-time Chat**: Engage in live conversations with the selected LLM model.
-- **Model Selection**: Choose between two cutting-edge models (**llama2**, **deepseek-r1**,**gemma-2**) via a simple sidebar.
+- **Model Selection**: Choose between three cutting-edge models (**llama2**, **deepseek-r1**,**gemma-2**) via a simple sidebar.
 - **Response Streaming**: Get responses streamed as they are generated, so you see the AI's thought process in real-time.
 - **Performance Tracking**: Display response times for each interaction.
 - **Error Handling**: Graceful error handling with helpful messages for troubleshooting.
